@@ -1,19 +1,74 @@
-# Hi 👋, I'm Varun Kumar
+<h1 align="center">Hi 👋, I'm Varun Kumar</h1>
+<h3 align="center">Final-Year Computer Science Student | Android & ML Developer | Tech & Innovation Enthusiast</h3>
 
-### I am a versatile and proactive final-year Computer Science engineer skilled in developing full-stack solutions, from mobile apps to backend services. With key projects in AR-powered navigation, machine learning-based wellness, and real-time chat applications using Django, I have a proven ability to take ideas from concept to deployment. I am passionate about leveraging technology to build innovative and impactful products.
-
-- 📫 How to reach me **varunkumar2004.vk@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://sites.google.com/view/varunkumar-official/about?authuser=0](https://sites.google.com/view/varunkumar-official/about?authuser=0)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/15hXfc_w7oll-uZqukonI3VGmM4Ac5ycP/view?usp=sharing](https://drive.google.com/file/d/15hXfc_w7oll-uZqukonI3VGmM4Ac5ycP/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; place-items:center; gap: 20px;">
-  <a href="https://github.com/varunkumar2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="varunkumar2004" height="25" width="25" /></a>
-  <a href="https://linkedin.com/in/varun2004-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun2004-kumar" height="25" width="25" /></a>
+<p align="center">
+  <a href="mailto:varunkumar2004.vk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/varun-kumar-903308249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/varunkumar2004"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://sites.google.com/view/varunkumar-official/about?authuser=0"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+---
 
+### 🚀 About Me
+- 🎓 **B.E. in Computer Science and Engineering** at *Thapar Institute of Engineering & Technology (TIET), Patiala*  
+- 💻 Passionate about **Android Development**, **Machine Learning**, and **AR-based Applications**  
+- 🌱 Currently exploring **AI-driven mobile experiences** and **Cloud-based ML deployment**  
+- 💡 Interested in **Tech, Finance, and Consulting**  
+- 📫 Reach me at: **varunkumar2004.vk@gmail.com**
+
+---
+
+### 🧠 Tech Stack
+
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,cpp,js,r,sqlite&perline=7" />
+</p>
+
+#### 🧰 Tools, Frameworks & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,django,firebase,googlecloud,opencv,figma,vscode,idea,blender&perline=7" />
+</p>
+
+#### 🎨 Additional Skills
+<p>Leadership • Data Interpretation • Quantitative Analysis</p>
+
+---
+
+### 🏗️ Featured Projects
+
+#### 🔹 [WayFinder (Capstone Project)](https://github.com/varunkumar2004/WayFinder)
+> AR-based Android application for **campus navigation** using **ARCore** and **Google Maps API**  
+> - Real-world coordinate mapping with **<50ms latency (Maps API)**  
+> - **Currently in Beta testing** on Google Play  
+> **Tech:** Kotlin, ARCore, Google Cloud, ML
+
+#### 🔹 [SafeSpace: Stress Detection & Management](https://github.com/varunkumar2004/SafeSpace-ELC-2024)
+> Android app for **real-time stress analysis** using **facial emotion detection** and **sentiment analysis**  
+> - Trained on **10,000+ facial emotion images**  
+> - Accuracy: **96.63%**, Latency: **250ms (Face Model)**  
+> **Tech:** Kotlin, Python (ML), OpenCV, NLP, Firebase
+
+#### 🔹 [StudyBud](https://github.com/varunkumar2004/StudyBud)
+> Chat application inspired by **Discord**, enabling **real-time communication** and **channel management**  
+> - Built with **Django**, **HTML/CSS/JS**, and **SQLite**  
+> **Tech:** Django, WebSockets, REST, Bootstrap
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varunkumar2004&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkumar2004&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-kumar-903308249"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:varunkumar2004.vk@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://sites.google.com/view/varunkumar-official/about?authuser=0"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=google-chrome"/></a>
+</p>
